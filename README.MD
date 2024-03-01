@@ -11,7 +11,7 @@ Esse desafio foi desenvolvido para avaliar os conhecimentos adquiridos durante o
 E também conta com um arquivo de Power BI para realizar o relacionamento dimensional entre as tabelas.
 
 ## Notebooks do desafio
-* [desafio_dwe](link)
+* [desafio_dwe](https://github.com/TinyHero13/pipeline_tratamento_e_analise_dados_de_vendas_desafio/blob/main/desafio_dwe.ipynb)
 
 ## Contato
 * Para conhecer mais dos meus projetos acesse o meu [portfólio](https://yasmim-portifolio.vercel.app)
